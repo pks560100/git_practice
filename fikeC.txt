@@ -1,1 +1,4 @@
 This is file C
+
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/pks560100/git_practice.git'
