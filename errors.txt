@@ -6,3 +6,6 @@ error: failed to push some refs to 'https://github.com/pks560100/git_practice.gi
 PS C:\Personal\DevOps_Insider_2026\Terraform_Racker_AZ\git-17-06> git push -u origin master
 remote: Invalid username or token. Password authentication is not supported for Git operations.
 fatal: Authentication failed for 'https://github.com/pks560100/git_practice.git/'
+
+
+changes after branch protection is enabled
